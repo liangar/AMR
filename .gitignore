@@ -1,0 +1,45 @@
+# sub path
+datapath/
+inter_bak/
+logbak/
+padpath/
+Debug/
+port/
+Release/
+
+# Object files
+*.o
+*.obj
+*.sbr
+*.plg
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.ocx
+
+# Executables
+*.scc
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.mdb
+*.7z
+*.rar
+*.zip
+*.csv
+*.log
+*.dat
+*.tbl
+*.bak
+*.tlog
+*.pdb
+*.scc
+*.htm
+*.aps
+*.ilk
